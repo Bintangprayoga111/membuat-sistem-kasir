@@ -1,0 +1,15 @@
+d:\membuat-sistem-kasir\bin\Debug\net10.0\membuat-sistem-kasir.exe
+D:\membuat-sistem-kasir\bin\Debug\net10.0\membuat-sistem-kasir.deps.json
+D:\membuat-sistem-kasir\bin\Debug\net10.0\membuat-sistem-kasir.runtimeconfig.json
+d:\membuat-sistem-kasir\bin\Debug\net10.0\membuat-sistem-kasir.dll
+d:\membuat-sistem-kasir\bin\Debug\net10.0\membuat-sistem-kasir.pdb
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.GeneratedMSBuildEditorConfig.editorconfig
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.AssemblyInfoInputs.cache
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.AssemblyInfo.cs
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.csproj.CoreCompileInputs.cache
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.sourcelink.json
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.dll
+d:\membuat-sistem-kasir\obj\Debug\net10.0\refint\membuat-sistem-kasir.dll
+d:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.pdb
+D:\membuat-sistem-kasir\obj\Debug\net10.0\membuat-sistem-kasir.genruntimeconfig.cache
+D:\membuat-sistem-kasir\obj\Debug\net10.0\ref\membuat-sistem-kasir.dll
